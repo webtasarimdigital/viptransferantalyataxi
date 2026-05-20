@@ -14,7 +14,8 @@
     "pax": "Kişi Sayısı",
     "currency": "Para Birimi",
     "search": "Araç Bul",
-    "select": "Seçiniz"
+    "select": "Seçiniz",
+    "badge": "PREMİUM TRANSFER HİZMETİ"
   },
   "Home": {
     "aboutTitle": "Neden Bizi Seçmelisiniz?",
@@ -30,7 +31,18 @@
     "stat2Value": "7/24 Aktif",
     "priceListTitle": "Fiyat Listesi",
     "reviewsTitle": "Bizimle Seyahat Edenler Ne Diyor?",
-    "reviewsSub": "MÜŞTERİ DENEYİMLERİ"
+    "reviewsSub": "MÜŞTERİ DENEYİMLERİ",
+    "vehiclesTitle": "Araçlarımız",
+    "vehiclesDesc": "Size en uygun olan aracı seçin ve lüksün tadını çıkarın. Tüm araçlarımız düzenli dezenfekte edilmekte ve VIP standartlarındadır.",
+    "aboutSub": "VİP HİZMET STANDARTI",
+    "ratingAverage": "5.0/5 Ortalama Puan",
+    "review1Text": "\"Şoförümüz son derece kibar ve profesyoneldi. Araç içi temizlik mükemmeldi. Kesinlikle tekrar tercih edeceğim.\"",
+    "review1Author": "- Michael Schmidt",
+    "review2Text": "\"Uçağımız rötar yapmasına rağmen bizi hiç sorunsuz beklediler. VIP Vito ile yolculuk harikaydı, teşekkürler!\"",
+    "review2Author": "- Elena Ivanova",
+    "review3Text": "\"Bebekli bir aile olarak bebek koltuğu detayı bizi çok mutlu etti. Yolculuk çok konforlu ve güvenli hissettirdi.\"",
+    "review3Author": "- James Wilson",
+    "vehiclesSub": "PREMİUM FİLO"
   },
   "Currencies": {
     "EUR": "EUR (€)",
@@ -109,6 +121,7 @@
     "toLabel": "Nereye ?",
     "paxLabel": "Kişi ?",
     "paxSuffix": "Yolcu",
+    "luggage": "Bagaj",
     "currencyLabel": "Para Birimi",
     "buttonSearch": "Fiyatları Gör & Araç Seç",
     "step1Title": "Araç Seçimi",
@@ -167,5 +180,19 @@
     "title": "404 - Sayfa Bulunamadı",
     "desc": "Aradığınız sayfa mevcut değil veya taşınmış olabilir.",
     "backHome": "Ana Sayfaya Dön"
+  },
+  "FAQ": {
+    "subtitle": "BİLGİLENDİRME",
+    "title": "Sıkça Sorulan Sorular",
+    "q1": "Havalimanında şoför beni nerede bekleyecek?",
+    "a1": "Şoförümüz sizi havalimanı çıkış kapısında (gelen yolcu salonu çıkışında) elinde isminizin veya şirketinizin adının yazılı olduğu bir tabela ile bekleyecektir.",
+    "q2": "Uçağım rötar yaparsa ne olur?",
+    "a2": "Endişelenmeyin. Ekibimiz uçuş numaranızı anlık olarak takip etmektedir. Uçağınız ne kadar gecikirse geciksin şoförümüz siz inene kadar bekleyecek ve ekstra bir ücret talep edilmeyecektir.",
+    "q3": "Ödemeyi nasıl yapabilirim?",
+    "a3": "Ödemenizi transfer tamamlandığında araç içinde nakit (EUR, USD, GBP, TL) olarak veya kredi kartı ile şoförümüze yapabilirsiniz. Ayrıca rezervasyon sırasında online ödeme seçeneğimiz de mevcuttur.",
+    "q4": "Araçlarda bebek/çocuk koltuğu bulunuyor mu?",
+    "a4": "Evet, rezervasyon sırasında belirtmeniz durumunda tüm araçlarımızda ücretsiz olarak yaş grubuna uygun bebek veya çocuk koltuğu temin edilmektedir.",
+    "q5": "Rezervasyonumu ne zamana kadar iptal edebilirim?",
+    "a5": "Transfer saatinizden 12 saat öncesine kadar rezervasyonunuzu hiçbir kesinti olmadan ücretsiz olarak iptal edebilir veya değişiklik yapabilirsiniz."
   }
 }

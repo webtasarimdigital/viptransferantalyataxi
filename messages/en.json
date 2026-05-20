@@ -14,7 +14,8 @@
     "pax": "Passengers",
     "currency": "Currency",
     "search": "Find Vehicle",
-    "select": "Select"
+    "select": "Select",
+    "badge": "PREMIUM TRANSFER SERVICE"
   },
   "Home": {
     "aboutTitle": "Why Choose Us?",
@@ -30,7 +31,18 @@
     "stat2Value": "24/7 Active",
     "priceListTitle": "Price List",
     "reviewsTitle": "What Do Our Travelers Say?",
-    "reviewsSub": "CUSTOMER EXPERIENCES"
+    "reviewsSub": "CUSTOMER EXPERIENCES",
+    "vehiclesTitle": "Our Vehicles",
+    "vehiclesDesc": "Choose the vehicle that suits you best and enjoy the luxury. All our vehicles are regularly disinfected and meet VIP standards.",
+    "aboutSub": "VIP SERVICE STANDARD",
+    "ratingAverage": "5.0/5 Average Rating",
+    "review1Text": "\"Our driver was extremely polite and professional. The cleanliness inside the vehicle was perfect. I will definitely choose them again.\"",
+    "review1Author": "- Michael Schmidt",
+    "review2Text": "\"Even though our flight was delayed, they waited for us without any problem. The journey with VIP Vito was wonderful, thank you!\"",
+    "review2Author": "- Elena Ivanova",
+    "review3Text": "\"As a family with a baby, the baby seat detail made us very happy. The journey felt very comfortable and safe.\"",
+    "review3Author": "- James Wilson",
+    "vehiclesSub": "PREMIUM FLEET"
   },
   "Currencies": {
     "EUR": "EUR (€)",
@@ -109,6 +121,7 @@
     "toLabel": "To ?",
     "paxLabel": "Passengers ?",
     "paxSuffix": "Pax",
+    "luggage": "Bags",
     "currencyLabel": "Currency",
     "buttonSearch": "See Prices & Select Vehicle",
     "step1Title": "Vehicle Selection",
@@ -167,5 +180,19 @@
     "title": "404 - Page Not Found",
     "desc": "The page you are looking for does not exist or may have been moved.",
     "backHome": "Back to Home"
+  },
+  "FAQ": {
+    "subtitle": "INFORMATION",
+    "title": "Frequently Asked Questions",
+    "q1": "Where will the driver wait for me at the airport?",
+    "a1": "Our driver will wait for you at the airport exit gate (arrivals hall exit) holding a sign with your name or company name.",
+    "q2": "What happens if my flight is delayed?",
+    "a2": "Do not worry. Our team monitors your flight number in real-time. No matter how late your flight is, our driver will wait until you land, and no extra fee will be charged.",
+    "q3": "How can I make the payment?",
+    "a3": "You can make your payment in cash (EUR, USD, GBP, TRY) or by credit card to our driver inside the vehicle when the transfer is completed. We also have an online payment option during reservation.",
+    "q4": "Are baby/child seats available in the vehicles?",
+    "a4": "Yes, if you specify during the reservation, an age-appropriate baby or child seat is provided free of charge in all our vehicles.",
+    "q5": "Until when can I cancel my reservation?",
+    "a5": "You can cancel or change your reservation free of charge without any deduction up to 12 hours before your transfer time."
   }
 }

@@ -14,7 +14,8 @@
     "pax": "Personen",
     "currency": "Währung",
     "search": "Fahrzeug Finden",
-    "select": "Auswählen"
+    "select": "Auswählen",
+    "badge": "PREMIUM-TRANSFERDIENST"
   },
   "Home": {
     "aboutTitle": "Warum Uns Wählen?",
@@ -30,7 +31,18 @@
     "stat2Value": "24/7 Aktiv",
     "priceListTitle": "Preisliste",
     "reviewsTitle": "Was sagen unsere Reisenden?",
-    "reviewsSub": "KUNDENBEWERTUNGEN"
+    "reviewsSub": "KUNDENBEWERTUNGEN",
+    "vehiclesTitle": "Unsere Fahrzeuge",
+    "vehiclesDesc": "Wählen Sie das für Sie am besten geeignete Fahrzeug und genießen Sie den Luxus. Alle unsere Fahrzeuge werden regelmäßig desinfiziert und entsprechen VIP-Standards.",
+    "aboutSub": "VIP-SERVICE-STANDARD",
+    "ratingAverage": "5,0/5 Durchschnittliche Bewertung",
+    "review1Text": "\"Unser Fahrer war sehr höflich und professionell. Die Sauberkeit im Fahrzeug war perfekt. Ich werde sie auf jeden Fall wieder wählen.\"",
+    "review1Author": "- Michael Schmidt",
+    "review2Text": "\"Obwohl unser Flug Verspätung hatte, warteten sie problemlos auf uns. Die Reise mit VIP Vito war wunderbar, danke!\"",
+    "review2Author": "- Elena Ivanova",
+    "review3Text": "\"Als Familie mit einem Baby hat uns das Detail mit dem Kindersitz sehr gefreut. Die Fahrt fühlte sich sehr komfortabel und sicher an.\"",
+    "review3Author": "- James Wilson",
+    "vehiclesSub": "PREMIUM-FLOTTE"
   },
   "Currencies": {
     "EUR": "EUR (€)",
@@ -109,6 +121,7 @@
     "toLabel": "Nach ?",
     "paxLabel": "Personen ?",
     "paxSuffix": "Pax",
+    "luggage": "Gepäck",
     "currencyLabel": "Währung",
     "buttonSearch": "Preise sehen & Fahrzeug wählen",
     "step1Title": "Fahrzeugauswahl",
@@ -167,5 +180,19 @@
     "title": "404 - Seite nicht gefunden",
     "desc": "Die gesuchte Seite existiert nicht oder wurde verschoben.",
     "backHome": "Zurück zur Startseite"
+  },
+  "FAQ": {
+    "subtitle": "INFORMATIONEN",
+    "title": "Häufig gestellte Fragen",
+    "q1": "Wo wird der Fahrer am Flughafen auf mich warten?",
+    "a1": "Unser Fahrer wartet am Ausgang des Flughafens (Ausgang der Ankunftshalle) mit einem Schild, auf dem Ihr Name oder der Name Ihres Unternehmens steht.",
+    "q2": "Was passiert, wenn mein Flug Verspätung hat?",
+    "a2": "Machen Sie sich keine Sorgen. Unser Team überwacht Ihre Flugnummer in Echtzeit. Egal, wie viel Verspätung Ihr Flug hat, unser Fahrer wird auf Ihre Landung warten, und es fallen keine zusätzlichen Gebühren an.",
+    "q3": "Wie kann ich bezahlen?",
+    "a3": "Sie können Ihre Zahlung nach Abschluss des Transfers bar (EUR, USD, GBP, TRY) oder per Kreditkarte an unseren Fahrer im Fahrzeug leisten. Wir bieten auch eine Online-Zahlungsoption während der Reservierung an.",
+    "q4": "Gibt es Baby-/Kindersitze in den Fahrzeugen?",
+    "a4": "Ja, wenn Sie dies bei der Reservierung angeben, wird in allen unseren Fahrzeugen kostenlos ein altersgerechter Baby- oder Kindersitz zur Verfügung gestellt.",
+    "q5": "Bis wann kann ich meine Reservierung stornieren?",
+    "a5": "Sie können Ihre Reservierung bis zu 12 Stunden vor Ihrer Transferzeit kostenlos und ohne Abzüge stornieren oder ändern."
   }
 }
