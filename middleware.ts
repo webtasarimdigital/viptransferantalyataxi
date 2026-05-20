@@ -1,7 +1,3 @@
-if (typeof __dirname === 'undefined') {
-  (globalThis as any).__dirname = '/';
-}
-
 import createMiddleware from 'next-intl/middleware';
 import {routing} from './src/i18n/routing';
 import { NextRequest } from 'next/server';
