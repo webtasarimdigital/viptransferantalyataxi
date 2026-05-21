@@ -4,11 +4,13 @@ import type { NextConfig } from 'next';
 const withNextIntl = createNextIntlPlugin();
 
 const nextConfig: NextConfig = {
-  eslint: {
-    ignoreDuringBuilds: true,
-  },
   typescript: {
     ignoreBuildErrors: true,
+  },
+  experimental: {
+    turbopack: {
+      root: __dirname,
+    },
   },
   images: {
     remotePatterns: [
