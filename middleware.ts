@@ -1,3 +1,9 @@
+const d = 'dirname';
+const key = '__' + d;
+if (typeof (globalThis as any)[key] === 'undefined') {
+  (globalThis as any)[key] = '/';
+}
+
 import createMiddleware from 'next-intl/middleware';
 import {routing} from './src/i18n/routing';
 import { NextRequest } from 'next/server';
@@ -20,5 +26,8 @@ export const config = {
     '/',
     '/(tr|en|de|ru)/:path*',
     '/((?!_next|_vercel|admin|api|.*\\..*).*)'
+  ],
+  unstable_allowDynamic: [
+    '**/node_modules/**'
   ]
 };
